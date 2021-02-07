@@ -93,3 +93,7 @@ li:first-letter {
 	padding-top: 7px;
 	white-space: nowrap;
 }
+
+.col-6 {
+	margin-bottom: 20px;
+}
